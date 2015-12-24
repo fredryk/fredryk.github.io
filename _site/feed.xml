@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 24 Dec 2015 15:09:36 -0500</pubDate>
-    <lastBuildDate>Thu, 24 Dec 2015 15:09:36 -0500</lastBuildDate>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 24 Dec 2015 15:41:54 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2015 15:41:54 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,11 +28,9 @@
 
 </description>
         <pubDate>Thu, 24 Dec 2015 09:38:48 -0500</pubDate>
-        <link>/ohai/jekyll/update/2015/12/24/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/ohai/jekyll/update/2015/12/24/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/jekyll/update/2015/12/24/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/24/welcome-to-jekyll.html</guid>
         
-        
-        <category>ohai</category>
         
         <category>jekyll</category>
         
